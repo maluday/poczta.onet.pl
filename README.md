@@ -1,1 +1,1 @@
-# poczta.onet.pl
+# poczta
